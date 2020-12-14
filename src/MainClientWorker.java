@@ -4,6 +4,7 @@ public class MainClientWorker {
 	
 	public static void main(String[] args) {
 		
+		
 		ArrayList<Thread> listThreads= new ArrayList<Thread>();
 				
 		for(int cont = 0; cont < 10; cont++) {
